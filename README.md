@@ -37,9 +37,6 @@ Watch the line-chart (temperature over time) and scatter-plot (temp vs. humidity
 
 ## Handy Commands
 
-bash
-Copy
-Edit
 # Reset database
 docker-compose down -v
 
