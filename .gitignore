@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+
+# Django media & logs
+/media/
+/*.log
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Docker override files
+docker-compose.override.yml
+
+# Editor & OS
+.vscode/
+.DS_Store

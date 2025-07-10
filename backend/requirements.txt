@@ -1,0 +1,12 @@
+Django>=4.2
+djangorestframework
+celery>=5.0
+redis>=4.0
+psycopg2-binary
+django-cors-headers
+pandas
+numpy
+scikit-learn
+gunicorn
+dj-database-url
+npm
